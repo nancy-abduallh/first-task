@@ -1,0 +1,60 @@
+body{
+    background-image: url(background\ images/circle-scatter-haikei.svg);
+     text-transform: capitalize;
+     font-style:italic;
+     box-sizing: content-box;
+
+}
+img{
+    width: 120px;
+    height: auto;
+    border: 6px groove palevioletred;
+    padding: 3px;
+    display:block;
+    margin: 0 auto;
+    border-radius: 40px;
+    
+    
+}
+div{
+    text-align: left;
+}
+p{
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 900px;
+
+}
+h1{
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+    text-align: center;
+    text-shadow: 4px 0px 5px red;
+
+}
+h2{
+    color:brown;
+    text-shadow: 6px 0px 5px red;
+    text-decoration: underline;
+
+}
+h3{
+    color: brown;
+    font-size: 30px;
+    text-shadow: 5px 0px 5px red;
+    text-decoration: underline;
+}
+label{
+    font-size: 25px;
+    text-shadow: 5px 0px 5px violet;
+}
+
+
+button{
+    font-size: medium;
+    padding: 15px 15px;
+}
+input{
+    border-radius: 20px;
+}
